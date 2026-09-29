@@ -1,0 +1,15 @@
+a__ while (index= 1; index <= 10; index+)
+        System.out println(index};
+
+        there is no initialization, no increament.
+
+its should be like this
+
+    int index = 1;
+    while (index <= 10)
+        System.out.print(index);
+            index++
+
+
+
+b__ 

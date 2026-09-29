@@ -1,0 +1,12 @@
+a__Error: The semicolon after rthe while header causes an infinite loop, and there's a missing left brace..Replace the semicolon by a {, or remove both the ; and the }.
+
+b__ Error: Using floating-point number to control a for statement may not work, because floating-point numbers are represented only approximately by most computers...Using an integer and perform the proper calculation to get the values you desire, as in:
+
+    for(k = 1; k != 10; k++) {
+        System.out.println(double) k / 10);
+    }
+
+c__ Error; The missing dode is the break statemnet in the statemnet for the first case...adding a break statement at the end of the statements for the first case.
+
+d__Error: an improper relational operational operator is used in the while continuation condition...using <= rather than <, or change 10 to 11.
+

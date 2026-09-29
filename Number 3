@@ -1,0 +1,31 @@
+a__ sum = 0;
+    for (count = 1; count <= 99; count += 2) {
+            sum += count;
+    }
+
+b__ double result = Math.pow(2,5,3);
+
+c__ index = 1;  
+    while (index <= 20) {
+        System.out.print(index);
+    
+    if(index % 5 == 0){
+        System.out.println();
+    }
+    
+    else {
+        System.out.print('\t');
+    }
+        
+        ++index;
+    }
+
+d__   for (index = 1; index <= 20; index++) {
+            System.out.print(index);
+        if (index % 5 == 0) {
+            System.out.println();
+          }
+        else {
+             System.out.print('\t');
+        }
+    }

@@ -1,0 +1,9 @@
+a__False. the default case is optional. if no defult action is needed, then there's no need for a defualt cse
+b__False. the breaak statement is used to exit the switch statement. the break statement is not required for the last case in a switch statement
+c__False. Both the relational expression must be true for the entire expression to be true when using the && operator
+d__True
+e__True
+f__False. The switch statment does not provide a mechanism for testing ranges of values, so every value that must be tested should be listed in a seperate case label
+g__True
+
+
